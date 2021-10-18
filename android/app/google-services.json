@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "474787148555",
+    "project_id": "videocall-728e8",
+    "storage_bucket": "videocall-728e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474787148555:android:7e031748dcd535fba9280e",
+        "android_client_info": {
+          "package_name": "com.example.webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474787148555-dmkh3ssfj0gagotucckvhc41u6976hhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNLIwq1kq6t_rFu80IXw7-RdCGxRx4sBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474787148555-dmkh3ssfj0gagotucckvhc41u6976hhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474787148555:android:09b1c04f7abe299fa9280e",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474787148555-dmkh3ssfj0gagotucckvhc41u6976hhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNLIwq1kq6t_rFu80IXw7-RdCGxRx4sBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474787148555-dmkh3ssfj0gagotucckvhc41u6976hhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
